@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "quickmenu:block/zircon_lamp_on" },
+    "lit=false": { "model": "quickmenu:block/zircon_lamp_off" }
+  }
+}

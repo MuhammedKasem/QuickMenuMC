@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "quickmenu:block/blueberry_stage5"
+  }
+}
