@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "quickmenu:zircon_ore",
+    "quickmenu:zircon_block",
+    "quickmenu:deepslate_zircon_ore",
+    "quickmenu:endstone_zircon_ore",
+    "quickmenu:netherrack_zircon_ore"
+  ]
+}

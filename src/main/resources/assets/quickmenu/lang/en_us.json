@@ -1,0 +1,12 @@
+{
+  "item.quickmenu.zircon": "Zircon",
+  "item.quickmenu.raw_zircon": "Raw Zircon",
+
+  "block.quickmenu.zircon_block": "Block of Zircon",
+  "block.quickmenu.zircon_ore": "Zircon Ore",
+  "block.quickmenu.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.quickmenu.endstone_zircon_ore": "Endstone Zircon Ore",
+  "block.quickmenu.netherrack_zircon_ore": "Netherrack Zircon Ore",
+
+  "itemGroup.menutab:": "Quick Menu"
+}
