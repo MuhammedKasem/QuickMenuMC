@@ -14,5 +14,6 @@
   "block.quickmenu.netherrack_zircon_ore": "Netherrack Zircon Ore",
   "block.quickmenu.blueberry_crop": "Blueberry Crop",
 
-  "itemGroup.menutab:": "Quick Menu"
+  "itemGroup.menutab:": "Quick Menu",
+  "entity.minecraft.villager.quickmenu.jumpy_master": "Jumpy Master"
 }
